@@ -2,5 +2,4 @@
 
 
 ### HackTheBox
-
-<script src="https://www.hackthebox.eu/badge/22396"></script>
+![image](https://www.hackthebox.eu/badge/image/22396)

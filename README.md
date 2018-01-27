@@ -1,5 +1,5 @@
 # Hall-Fame
 
 
-### HackTheBox
+### HackTheBox.eu
 ![image](https://www.hackthebox.eu/badge/image/22396)
